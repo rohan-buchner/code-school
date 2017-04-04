@@ -1,5 +1,6 @@
-# code-school
-Curated list of online resources
+# Code School
+### Curated list of online resources 
+
 
 
 **JavaScript:**
@@ -9,7 +10,6 @@ Curated list of online resources
 | [Learn Redux](https://learnredux.com/)                          | Video     | Free          | Wes Bos       |
 
 
-<hr/>
 
 
 **Develpment workflow:**
