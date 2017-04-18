@@ -9,6 +9,7 @@
 | --------------------------------------------------------------- |-----------|:-------------:|:--------------|
 | [Learn Redux](https://learnredux.com/)                          | Video     | Free          | Wes Bos       |
 | [Node Hero(getting started with NodeJS)](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)| Read through     | Free          | Gergely Nemeth      | 
+| [ng-anglar style guide](https://github.com/toddmotto/angularjs-styleguide)| Read through | Free | toddmotto
 
 
 
