@@ -19,3 +19,10 @@
 | --------------------------------------------------------------- |-----------|:-------------:|:--------------|
 | [Command Line Power User](https://commandlinepoweruser.com/)    | Video     | Free          | Wes Bos       |
 | [VIM & Python IDE](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)    | Read through     | Free          | Real Python       |
+
+
+**Back To School:**
+
+| Course                                                          | Type      | Cost          | Author        |
+| --------------------------------------------------------------- |-----------|:-------------:|:--------------|
+| [Algorithms](https://github.com/haseebr/competitive-programming/blob/master/Materials/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)    | Book     | Free          | Robert Sedgewick       |
