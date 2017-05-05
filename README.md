@@ -20,6 +20,7 @@
 | --------------------------------------------------------------- |-----------|:-------------:|:--------------|
 | [Command Line Power User](https://commandlinepoweruser.com/)    | Video     | Free          | Wes Bos       |
 | [VIM & Python IDE](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)    | Read through     | Free          | Real Python       |
+| [iTermocil](https://github.com/TomAnthony/itermocil)   | Read through     | Free          | Iterm       |
 
 
 **Back To School:**
